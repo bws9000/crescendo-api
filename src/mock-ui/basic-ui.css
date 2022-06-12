@@ -1,0 +1,21 @@
+.recipeBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width:33%;
+    background-color:black;
+    color:#fff;
+    padding:1rem;
+    margin:0 auto;
+}
+.singleRecipe img { width:6rem; margin:0 auto;}
+a:link { color: #fff;}
+a:visited { color: #fff;}
+a:hover { color: #fff;}
+a:active { color: #fff;}
+ul{
+    margin:0;
+    padding:0;
+    list-style-type: none;
+}
+li{padding:0.3rem;}
